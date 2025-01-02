@@ -1,8 +1,6 @@
 # Welcome to My GitHub Profile! 🚀
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&size=40&duration=3000&pause=500&color=00FF00&width=800&height=100&lines=Hi%2C+I'm+Nitin+Paudel!;Full-Stack-Software+Engineer;Tech+Enthusiast;Always+Learning+%26+Innovating)](https://git.io/typing-svg)
-
-
 ## 🙋‍♂️ About me  
 ![profile view count](https://komarev.com/ghpvc/?username=Nitinpoudel2)
 
