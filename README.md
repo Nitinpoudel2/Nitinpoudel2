@@ -9,8 +9,7 @@ I am a passionate full-stack software developer in the Central Time Zone 🌎. I
 
 <h2 align="center"> Full Stack Developer </h2>
 - 🔭 I’m currently working in CyberSolve IT Inc </br>
-- 📫 How to reach me: nitinpoudel2071@gmail.com 
-- 
+- 📫 How to reach me: nitinpoudel2071@gmail.com
 
 <h2 align="center" style="color:#36BCF7FF">Connect with me:</h2>
 <div align ="center">
