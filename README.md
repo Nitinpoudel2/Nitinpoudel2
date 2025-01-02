@@ -1,10 +1,11 @@
 # Welcome to My GitHub Profile! 🚀
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&size=40&duration=3000&pause=500&color=00FF00&width=800&height=100&lines=Hi%2C+I'm+Nitin+Paudel!;Full-Stack-Software+Engineer;Tech+Enthusiast;Always+Learning+%26+Innovating)](https://git.io/typing-svg)
+
 ## 🙋‍♂️ About me  
 ![profile view count](https://komarev.com/ghpvc/?username=Nitinpoudel2)
 
-I am a full-stack software developer currently in the Central Time Zone 🌎. I am a huge fan of Java, JavaScript, Open-Source, and writing testable software 💻. When I'm not working on crushing bugs or building dreams, I can be found oil painting 👨🏽‍🎨, playing golf 🏌🏼, skiing ⛷️, playing soccer ⚽️, and spending time with my Family ❤️. 
+I am a passionate full-stack software developer in the Central Time Zone 🌎. I am a huge fan of Java, JavaScript, Open-Source, and writing testable software 💻. When I'm not working on crushing bugs or building dreams, I can be found oil painting 👨🏽‍🎨, playing golf 🏌🏼, skiing ⛷️, playing soccer ⚽️, and spending time with my Family ❤️. 
 
 <h2 align="center"> Full Stack Developer </h2>
 - 🔭 I’m currently working in CyberSolve IT Inc </br>
