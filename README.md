@@ -8,7 +8,7 @@
 I am a passionate full-stack software developer in the Central Time Zone 🌎. I am a huge fan of Java, JavaScript, Open-Source, and writing testable software 💻. When I'm not working on crushing bugs or building dreams, I can be found oil painting 👨🏽‍🎨, playing golf 🏌🏼, skiing ⛷️, playing soccer ⚽️, and spending time with my Family ❤️. 
 
 <h2 align="center"> Full Stack Developer </h2>
-- 🔭 I’m currently working in CyberSolve IT Inc </br>
+- 🔭 I’m currently working in SMS Infocomm</br>
 - 📫 How to reach me: nitinpoudel2071@gmail.com
 
 <h2 align="center" style="color:#36BCF7FF">Connect with me:</h2>
